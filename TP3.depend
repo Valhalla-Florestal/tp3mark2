@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1575355777 source:c:\users\alber\onedrive\햞ea de trabalho\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tPalavra.h"
+	"tTexto.h"
+	"tBiblioteca.h"
+
+1575355520 source:c:\users\alber\onedrive\햞ea de trabalho\tp3\tpalavra.c
+	"tPalavra.h"
+
+1575350110 c:\users\alber\onedrive\햞ea de trabalho\tp3\tpalavra.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575352737 c:\users\alber\onedrive\햞ea de trabalho\tp3\ttexto.h
+	"tPalavra.h"
+
+1575355465 source:c:\users\alber\onedrive\햞ea de trabalho\tp3\ttexto.c
+	"tTexto.h"
+
+1575349123 c:\users\alber\onedrive\햞ea de trabalho\tp3\tbiblioteca.h
+	"tTexto.h"
+
+1575349302 source:c:\users\alber\onedrive\햞ea de trabalho\tp3\tbiblioteca.c
+	"tTexto.h"
+	"tBiblioteca.h"
+
+1575406425 source:c:\users\william\documents\tp3\tbiblioteca.c
+	"tTexto.h"
+	"tBiblioteca.h"
+
+1575356337 c:\users\william\documents\tp3\ttexto.h
+	"tPalavra.h"
+
+1575353710 c:\users\william\documents\tp3\tpalavra.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575352723 c:\users\william\documents\tp3\tbiblioteca.h
+	"tTexto.h"
+
+1575359120 source:c:\users\william\documents\tp3\tpalavra.c
+	"tPalavra.h"
+
+1575359065 source:c:\users\william\documents\tp3\ttexto.c
+	"tTexto.h"
+
