@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1575474928 source:c:\users\william\documents\aeds\teste3\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tPalavraArranjo.h"
+	"tTextoArranjo.h"
+	"tBibliotecaArranjo.h"
+
+1575416819 c:\users\william\documents\aeds\teste3\tp3\tpalavraarranjo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575465986 c:\users\william\documents\aeds\teste3\tp3\ttextoarranjo.h
+	"tPalavraArranjo.h"
+
+1575467297 c:\users\william\documents\aeds\teste3\tp3\tbibliotecaarranjo.h
+	"tTextoArranjo.h"
+
+1575474908 source:c:\users\william\documents\aeds\teste3\tp3\tbibliotecaarranjo.c
+	"tTextoArranjo.h"
+	"tBibliotecaArranjo.h"
+
+1575429525 source:c:\users\william\documents\aeds\teste3\tp3\tpalavraarranjo.c
+	"tPalavraArranjo.h"
+
+1575426116 source:c:\users\william\documents\aeds\teste3\tp3\tpalavralista.c
+	"tPalavraLista.h"
+
+1575424136 c:\users\william\documents\aeds\teste3\tp3\tpalavralista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575416054 source:c:\users\william\documents\aeds\teste3\tp3\ttextolista.c
+	"tTextoLista.h"
+
+1575416039 c:\users\william\documents\aeds\teste3\tp3\ttextolista.h
+
+1575467218 source:c:\users\william\documents\aeds\teste3\tp3\ttextoarranjo.c
+	"tTextoArranjo.h"
+
